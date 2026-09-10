@@ -41,7 +41,7 @@ function Hero() {
 
           <div className="hero-buttons">
             <motion.a
-              href="#get-started"
+              href="/workspace"
               className="primary-button"
               whileHover={{ scale: 1.04 }}
               whileTap={{ scale: 0.97 }}

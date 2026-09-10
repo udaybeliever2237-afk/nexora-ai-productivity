@@ -36,7 +36,7 @@ function Navbar() {
         <div className="nav-actions">
 
           <a
-            href="#get-started"
+            href="/workspace"
             className="nav-button"
             onClick={closeMenu}
           >

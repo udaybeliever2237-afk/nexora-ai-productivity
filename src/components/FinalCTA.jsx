@@ -37,7 +37,7 @@ function FinalCTA() {
 
         <div className="final-cta-actions">
           <motion.a
-            href="#pricing"
+            href="/workspace"
             className="cta-primary"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.97 }}
